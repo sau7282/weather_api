@@ -19,10 +19,7 @@ This API pulls weather data from OpenWeather and stores it in CSV, XML, and Exce
    ```bash
    cd weather_api
    ```
-3. Install dependencies (if required):
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 
 ## Usage
 Run the script to fetch and store weather data:
